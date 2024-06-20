@@ -1,0 +1,11 @@
+C:\blazor\RockPaperAndScissors\Shared\bin\Debug\net7.0\RockPaperAndScissors.Shared.deps.json
+C:\blazor\RockPaperAndScissors\Shared\bin\Debug\net7.0\RockPaperAndScissors.Shared.dll
+C:\blazor\RockPaperAndScissors\Shared\bin\Debug\net7.0\RockPaperAndScissors.Shared.pdb
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.AssemblyInfoInputs.cache
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.AssemblyInfo.cs
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.csproj.CoreCompileInputs.cache
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.dll
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\refint\RockPaperAndScissors.Shared.dll
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\RockPaperAndScissors.Shared.pdb
+C:\blazor\RockPaperAndScissors\Shared\obj\Debug\net7.0\ref\RockPaperAndScissors.Shared.dll
