@@ -1,6 +1,3 @@
-
-Certainly! Here's a basic README template you can use for your Rock Paper Scissors game created with C# Blazor:
-
 Rock Paper Scissors Game
 This project is a simple implementation of the classic Rock Paper Scissors game using C# and Blazor.
 
@@ -32,7 +29,3 @@ The result of the game will be displayed on the screen.
 Contributing
 
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
